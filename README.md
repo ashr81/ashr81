@@ -1,5 +1,9 @@
 ### Hi there 👋
 ![Ashrith's github stats](https://github-readme-stats.vercel.app/api?username=ashr81&show_icons=true&theme=graywhite)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ashr81/count.svg" />
+</p>
 <!--
 **ashr81/ashr81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:

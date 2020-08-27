@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript, IOT**
 
-- 👯 I’m looking to collaborate on **enhance agriculture yield using Technology**
+- 👯 I’m looking to collaborate on **Improving agriculture yield using Technology**
 
 - 🤝 I’m looking for help with **IOT in Agriculture**
 

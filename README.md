@@ -34,7 +34,7 @@
 <p align="center">
 <a href="https://codepen.io/ashr81" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ashr81" height="30" width="30" /></a>
 <a href="https://twitter.com/ashrith381" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ashrith381" height="30" width="30" /></a>
-<a href="https://linkedin.com/in//in/vashrithreddy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="/in/vashrithreddy/" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/vashrithreddy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="/in/vashrithreddy/" height="30" width="30" /></a>
 <a href="https://codesandbox.com//u/ashr81" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="/u/ashr81" height="30" width="30" /></a>
 <a href="https://medium.com/@ashr81" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ashr81" height="30" width="30" /></a>
 </p>

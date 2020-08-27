@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **react, javascript, ruby on rails**
 
-- 📫 How to reach me **ashrithreddi81@gmail.com**
+- 📫 Use contact form [here](https://ashrith.now,sh) to reach me.
 
 - ⚡ Fun fact **The best investment you can make is in yourself.**
 

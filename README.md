@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **react, javascript, ruby on rails**
 
-- 📫 Use contact form [here](https://ashrith.now,sh) to reach me.
+- 📫 How to reach me: [@ashrith381](https://twitter.com/ashrith381)
 
 - ⚡ Fun fact **The best investment you can make is in yourself.**
 

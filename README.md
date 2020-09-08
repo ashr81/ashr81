@@ -15,7 +15,7 @@
 
 - 📝 I regulary write articles on [https://ashrith.now.sh/blog](https://ashrith.now.sh/blog)
 
-- 💬 Ask me about **react, javascript, ruby on rails**
+- 💬 Ask me about **React.js, Javascript, Typescript, Ruby on rails**
 
 - 📫 How to reach me: [@ashrith381](https://twitter.com/ashrith381)
 

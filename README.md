@@ -11,11 +11,11 @@
 
 - 🤝 I’m looking for help with **IOT in Agriculture**
 
-- 👨‍💻 All of my projects are available at [https://ashrith.now.sh/#work](https://ashrith.now.sh/#work)
+- 👨‍💻 All of my projects are available at [https://ashrith.now.sh/#/work](https://ashrith.now.sh/#/work)
 
-- 📝 I regulary write articles on [https://ashrith.now.sh/#blog](https://ashrith.now.sh/#blog)
+- 📝 I regularly write articles on [https://ashrith.now.sh/#/blog](https://ashrith.now.sh/#/blog)
 
-- 💬 Ask me about **React.js, Javascript, Typescript, Ruby on rails**
+- 💬 Ask me about **React.js, Javascript, Typescript, Styled-Components, TailwindCSS and Ruby on rails**
 
 - 📫 How to reach me: [@ashrith381](https://twitter.com/ashrith381)
 
